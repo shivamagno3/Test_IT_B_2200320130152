@@ -1,0 +1,24 @@
+.{
+    margin: auto;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html,body{
+    height: ;
+    width: ;
+}
+#heading{
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+    max-width: 200%;
+    color: blue;
+    background-color: antiquewhite;
+}
+#previous{
+    
+}
+#next{
+    text-decoration: blanchedalmond;
+}
